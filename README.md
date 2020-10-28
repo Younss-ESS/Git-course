@@ -1,2 +1,4 @@
 # Git-course
-For Ezero Web School Course
+For Ezero Web School Course.
+
+## Project Notes
